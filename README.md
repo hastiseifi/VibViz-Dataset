@@ -36,3 +36,9 @@ Attributes for each vibration:
 	metaphorD2 - natural vs. mechanical
 	
 	UsageD1 - awareness vs. attention-demand
+	
+	Please visit http://www.cs.ubc.ca/labs/spin/vibviz. Should you have any questions regarding this dataset or VibViz interface, feel free to contact seifi@cs.ubc.ca 
+	
+	Author's webpage: http://www.cs.ubc.ca/~seifi/
+	
+	
