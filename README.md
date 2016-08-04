@@ -1,5 +1,5 @@
 # VibViz-Dataset
-This repository contains all 120 vibrations for used in the VibViz library including their (.wav) files, their aggregated ratings and tags, and the MDS dimensions for the Sensation, Emotion, Metaphor, and Usage Facets.
+This repository contains all 120 vibrations for the VibViz library including their (.wav) files, their aggregated ratings and tags, and the MDS dimensions for the Sensation, Emotion, Metaphor, and Usage Facets.
 
  Content of "viblib" folder: 120 .wav files
  
