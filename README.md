@@ -1,4 +1,6 @@
 # VibViz-Dataset
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
 This repository contains all 120 vibrations for the VibViz library including their (.wav) files, their aggregated ratings and tags, and the MDS dimensions for the Sensation, Emotion, Metaphor, and Usage Facets.
 
  Content of "viblib" folder: 120 .wav files
@@ -40,5 +42,7 @@ Attributes for each vibration:
 	Please visit http://www.cs.ubc.ca/labs/spin/vibviz. Should you have any questions regarding this dataset or VibViz interface, feel free to contact seifi@cs.ubc.ca 
 	
 	Author's webpage: http://www.cs.ubc.ca/~seifi/
+	
+	
 	
 	
